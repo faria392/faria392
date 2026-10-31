@@ -116,8 +116,6 @@ class GustavoFaria:
 
 ---
 
----
-
 ## Estudando agora
 
 <p align="center">
