@@ -119,16 +119,18 @@ class GustavoFaria:
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faria392&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faria392&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Top Langs"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil"/>
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faria392&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faria392&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faria392/faria392/output/snake-dark.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/faria392/faria392/output/snake.svg" alt="Snake de contribuições"/>
+  </picture>
 </p>
 
 ---
