@@ -36,7 +36,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 ```python
 class GustavoFaria:
@@ -52,7 +52,7 @@ class GustavoFaria:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center"><b>Dados & Machine Learning</b></p>
 <p align="center">
@@ -83,7 +83,7 @@ class GustavoFaria:
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -116,26 +116,9 @@ class GustavoFaria:
 
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil"/>
-</p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas"/>
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faria392/faria392/output/snake-dark.svg"/>
-    <img width="100%" src="https://raw.githubusercontent.com/faria392/faria392/output/snake.svg" alt="Snake de contribuições"/>
-  </picture>
-</p>
-
 ---
 
-## 📚 Estudando agora
+## Estudando agora
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estatística_Aplicada-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8"/>
